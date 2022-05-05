@@ -1,0 +1,41 @@
+.box {
+  height: 275px;
+  margin: 50px auto;
+  width: 470px;
+  border: 2px solid pink;
+  border-radius: 10px;
+}
+.box2 {
+  height: 40px;
+  margin: 33px auto;
+  width: 437px;
+  border: 2px solid red;
+  background-color: red;
+  color: white;
+  font-size: 23px;
+}
+
+.box2 p {
+  text-align: center;
+  margin-top: 8px;
+}
+.em {
+  margin-bottom: 10px;
+}
+.email {
+  margin-left: 20px;
+}
+.password {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.btn {
+  margin-top: 5px;
+  margin-left: 156px;
+  width: 126px;
+  height: 30px;
+  border: 2px solid black;
+  background-color: red;
+  color: white;
+  border-radius: 7px;
+}
